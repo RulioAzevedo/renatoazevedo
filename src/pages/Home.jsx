@@ -31,13 +31,13 @@ function Home() {
         {/*  Page sections */}
         <HeroHome />
         <Stats />
-        <Carousel />
-        <Tabs />
-        <Process />
-        <PricingTables />
+        {/* <Carousel /> */}
+        {/* <Tabs /> */}
+        {/* <Process /> */}
+        {/* <PricingTables /> */}
         <TestimonialsBlocks />
         <FeaturesBlocks />
-        <Cta />
+        {/* <Cta /> */}
 
       </main>
 

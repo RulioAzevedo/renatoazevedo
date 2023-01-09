@@ -21,13 +21,13 @@ function About() {
       <main className="grow">
 
         {/*  Page sections */}
-        <HeroAbout />
-        <FeaturesGallery />
+        {/* <HeroAbout /> */}
+        {/* <FeaturesGallery /> */}
         <Timeline />
-        <Career />
-        <FeaturesAnimation />
+        {/* <Career /> */}
+        {/* <FeaturesAnimation /> */}
         <Team />
-        <CtaContact />
+        {/* <CtaContact /> */}
 
       </main>
 
