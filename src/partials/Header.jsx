@@ -39,9 +39,9 @@ function Header() {
   const [darkMode, setDarkMode] = useState(() => {
     const dark = localStorage.getItem("dark-mode")
     if (dark === null) {
-      return true
+      return false
     } else {
-      return dark === "true"
+      return dark === "false"
     }
   })
 
