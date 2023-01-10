@@ -1,4 +1,4 @@
-import InstallerImage from "../images/installer.png"
+import InstallerImage from "../images/installer-eletric.png"
 
 function HeroHome() {
   return (
