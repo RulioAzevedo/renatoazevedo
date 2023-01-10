@@ -20,8 +20,10 @@ function HeroHome() {
                 data-aos="fade-down"
                 data-aos-delay="150"
               >
-                Our landing page template works on all devices, so you only have
-                to set it up once, and get beautiful results forever.
+                Está buscando uma forma de deixar a sua família mais segura?
+                Todas as noites tem a sensação de ter escutado alguém mexer no
+                seu portão? Temos a solução perfeita, que soma automação e
+                segurança com preços que se encaixam no seu orçamento.
               </p>
             </div>
 
