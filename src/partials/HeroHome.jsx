@@ -1,11 +1,6 @@
-import React, { useState } from "react"
-import Modal from "../utils/Modal"
-
 import InstallerImage from "../images/installer.png"
 
 function HeroHome() {
-  const [videoModalOpen, setVideoModalOpen] = useState(false)
-
   return (
     <section>
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
