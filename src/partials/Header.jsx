@@ -37,12 +37,7 @@ function Header() {
 
   // Handle light modes
   const [darkMode, setDarkMode] = useState(() => {
-    const dark = localStorage.getItem("dark-mode")
-    if (dark === null) {
-      return false
-    } else {
-      return dark === "false"
-    }
+    return false
   })
 
   useEffect(() => {
@@ -129,9 +124,9 @@ function Header() {
                   Testemunhos
                 </Link>
               </li> */}
-              
+
               {/* 1st level: hover */}
-                {/* 2nd level: hover */}
+              {/* 2nd level: hover */}
               {/* <Dropdown title="Resources">
                 <li>
                   <Link
@@ -205,7 +200,7 @@ function Header() {
           {/* Mobile menu */}
           <div className="inline-flex md:hidden">
             {/* Mobile lights switch */}
-            <div className="form-switch flex flex-col justify-center mr-6 -mt-0.5">
+            {/* <div className="form-switch flex flex-col justify-center mr-6 -mt-0.5">
               <input
                 type="checkbox"
                 name="light-switch"
@@ -239,7 +234,7 @@ function Header() {
                 </svg>
                 <span className="sr-only">Switch to light / dark version</span>
               </label>
-            </div>
+            </div> */}
 
             {/* Hamburger button */}
             <button
