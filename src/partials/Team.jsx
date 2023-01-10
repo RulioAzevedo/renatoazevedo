@@ -19,7 +19,7 @@ function Team() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 font-red-hat-display mb-4">OS MAIS LINDO</h2>
+            <h2 className="h2 font-red-hat-display mb-4">Nossas Ideias</h2>
             <p className="text-xl text-gray-600 dark:text-gray-400">Segurança na nossa vida, sempre tem que estar presente. Não tente, não invente se não é capaz, chame quem sabe, não arrisque jamais, evite o acidente, o inimigo nao da paz; No trabalho, não coloque sua familia em risco. Nunca é demais mais segurança ..</p>
           </div>
 
