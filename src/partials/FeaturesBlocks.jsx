@@ -39,7 +39,7 @@ function FeaturesBlocks() {
                 Segurança
               </div>
               <div className="grow opacity-80 mb-4">
-                Lorem ipsum dolor amet sit consect adipiscing.
+                A tecnologia trazendo a segurança e a praticidade para a palma da sua mão.
               </div>
               <svg
                 className="w-6 h-6 self-end transform -translate-x-2 group-hover:translate-x-0 transition duration-150 ease-in-out"
@@ -76,7 +76,7 @@ function FeaturesBlocks() {
                 Automação
               </div>
               <div className="grow opacity-80 mb-4">
-                Lorem ipsum dolor amet sit consect adipiscing.
+                Projetado para atender a automação dos portões, sistema de iluminação, sensores e outros.
               </div>
               <svg
                 className="w-6 h-6 self-end transform -translate-x-2 group-hover:translate-x-0 transition duration-150 ease-in-out"
@@ -113,7 +113,7 @@ function FeaturesBlocks() {
                 Controle de Acesso
               </div>
               <div className="grow opacity-80 mb-4">
-                Lorem ipsum dolor amet sit consect adipiscing.
+                Solução para o controle de acessos. Gestão de usuários e recursos  que visam a economia, segurança e a comodidade.
               </div>
               <svg
                 className="w-6 h-6 self-end transform -translate-x-2 group-hover:translate-x-0 transition duration-150 ease-in-out"
@@ -147,10 +147,10 @@ function FeaturesBlocks() {
                 />
               </svg>
               <div className="font-red-hat-display text-xl font-extrabold tracking-tighter mb-1">
-                Serviços de Instalação
+                Serviços de Manutenção
               </div>
               <div className="grow opacity-80 mb-4">
-                Lorem ipsum dolor amet sit consect adipiscing.
+                Serviço de manutenção em portões, sistema de CFTV, sensores  e outros.
               </div>
               <svg
                 className="w-6 h-6 self-end transform -translate-x-2 group-hover:translate-x-0 transition duration-150 ease-in-out"
